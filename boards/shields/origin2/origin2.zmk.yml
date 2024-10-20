@@ -1,0 +1,11 @@
+file_formrt: "1"
+id: origin2
+name: Origin2
+type: shield
+url: https://github.com/xb1g/origin/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - origin2_left
+  - origin2_right
