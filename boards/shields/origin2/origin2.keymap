@@ -39,6 +39,15 @@
         extra4 {
             status = "reserved";
         };
+        extra45{
+            status = "reserved";
+        };
+        extra6 {
+            status = "reserved";
+        };
+        extra7 {
+            status = "reserved";
+        };
 
     };
 
